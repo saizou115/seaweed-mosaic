@@ -13,7 +13,7 @@
 
 ## 実行イメージ
 
-![Image](https://github.com/user-attachments/assets/5d9fd769-1104-437e-94aa-c10f5970a10e)
+![Image](https://github.com/user-attachments/assets/c9e67260-0a1c-4c7b-be02-40270fb5287f)
 
 ## 必要環境
 
